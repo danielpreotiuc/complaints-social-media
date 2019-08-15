@@ -13,7 +13,7 @@ Citation:
 ```
 @inproceedings{complaints2019acl,
   title={{Automatically Identifying Complaints in Social Media}},
-  author={Preo\c{t}iuc-Pietro, Daniel and Gaman, Mihaela and Aletras, Nikolaos},
+  author={Preo\c{t}iuc-Pietro, Daniel and G\u{a}man, Mihaela and Aletras, Nikolaos},
   booktitle={Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
   series={ACL},
   year={2019}
